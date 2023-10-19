@@ -11,7 +11,7 @@ plugins:
   - jekyll-paginate-v2
 # Build settings
 markdown: kramdown
-remote_theme: ItsPatrq/minimal-music-project
+remote_theme: ItsPatrq/minimal-categorized
 permalink: /:title.html
 pagination:
   enabled: true
