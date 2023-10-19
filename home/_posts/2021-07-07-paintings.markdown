@@ -1,6 +1,7 @@
 ---
 layout: post
 image: assets/img/paintings-album.png
+image_alt: Post image cover
 category: home
 title: 'Paintings Album Release - July 16, 2021'
 ---

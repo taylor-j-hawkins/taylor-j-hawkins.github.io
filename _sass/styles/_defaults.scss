@@ -37,6 +37,7 @@ main {
         position: relative;
         p, li {
             @include hyperlink-convention();
+            color: $p_text;
         }
         .content-separator {
             margin: $gap auto;

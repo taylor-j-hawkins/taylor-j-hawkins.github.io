@@ -1,6 +1,7 @@
 ---
 layout: post
 image: assets/img/albatross-ep.png
+image_alt: Post image cover
 category: home
 title: 'Albatross EP Release - December 21, 2022'
 ---

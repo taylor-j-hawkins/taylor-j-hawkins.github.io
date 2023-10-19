@@ -1,6 +1,7 @@
 ---
 layout: post
 image: assets/img/saturnity-ep.png
+image_alt: Post image cover
 category: home
 title: 'Saturnity EP Release - August 10, 2022'
 ---

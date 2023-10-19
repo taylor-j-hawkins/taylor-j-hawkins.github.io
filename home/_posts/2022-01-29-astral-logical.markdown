@@ -1,6 +1,7 @@
 ---
 layout: post
 image: assets/img/astral-logical-album.png
+image_alt: Post image cover
 category: home
 title: 'Astral Logical EP Release - February 24, 2022'
 ---
