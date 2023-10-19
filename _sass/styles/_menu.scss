@@ -1,6 +1,6 @@
 .menu {
     $root: &;
-    background-color: $black;
+    background-color: $white;
     position: fixed;
     left: 0;
     top: 0;
@@ -144,7 +144,7 @@
             top: $mobile-menu-height;
             height: calc(100% - #{$mobile-menu-height});
             width: 100%;
-            background-color: $black;
+            background-color: $white;
             padding-left: 2em;
         }
     }
