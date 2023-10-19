@@ -14,7 +14,7 @@ markdown: kramdown
 remote_theme: ItsPatrq/minimal-categorized
 permalink: /:title.html
 pagination:
-  enabled: true
+  enabled: false
   per_page: 4
   limit: 0
   sort_field: 'date'
