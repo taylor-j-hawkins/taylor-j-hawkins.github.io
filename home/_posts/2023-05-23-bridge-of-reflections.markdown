@@ -2,7 +2,7 @@
 layout: post
 title: 'Bridge of Reflections - Suite for Two Pianos Release - June 1st, 2023'
 category: home
-image: /assets/img/bridge-of-reflections.png
+image: {{taylorjhawkins.com}}/assets/img/bridge-of-reflections.png
 image_alt: Post image cover
 ---
 ![Bridge of Reflections]({{taylorjhawkins.com}}/assets/img/bridge-of-reflections.png)

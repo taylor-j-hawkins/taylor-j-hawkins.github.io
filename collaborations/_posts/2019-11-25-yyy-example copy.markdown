@@ -1,6 +1,6 @@
-<!-- ---
+---
 published: false
-layout: post
+#layout post
 title: Example for the pagination test
 description: This is description of a post. It will appear in the page of it's category with the description or excerpt shown. Clicking each of them will redirect to the page of the post, the same with clicking "Read More"
 image: assets/img/YyY-Cover.png
@@ -20,4 +20,4 @@ Here you can write more about a certain release, e.g. tracklist:
 1. Yy
 1. YyY
 1. YyYy
-1. YyYyY -->
+1. YyYyY
