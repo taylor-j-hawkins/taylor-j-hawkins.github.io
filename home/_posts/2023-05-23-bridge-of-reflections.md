@@ -1,6 +1,6 @@
 ---
 layout: post
-image: assets/img/bridge-of-reflections.png
+image: /assets/img/bridge-of-reflections.png
 category: home
 published: true
 title: 'Bridge of Reflections - Suite for Two Pianos Release - June 1st, 2023'
