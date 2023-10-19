@@ -39,9 +39,6 @@ main {
             @include hyperlink-convention();
             color: $p_text;
         }
-        .about {
-            color: $p_text;
-        }
         .content-separator {
             margin: $gap auto;
             color: $p_text;
