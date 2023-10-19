@@ -84,6 +84,7 @@ a {
 }
 a, p, li {
     font-size: 1.1em;
+    color: $p_text;
 }
 
 li {
@@ -133,6 +134,7 @@ img {
 @include mobile {
     body {
         font-size: 15px;
+        color: $p_text;
     }
     h1 {
         font-size: 2em;
@@ -157,7 +159,7 @@ audio {
     line-height: 1em;
     font-weight: 300;
     padding-bottom: 0.5em;
-    color: #000000;
+    color: $p_text;
     a {
         font-size: 0.9em;
         @include underline-on-hover($black);
