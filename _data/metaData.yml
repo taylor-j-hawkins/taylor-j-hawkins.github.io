@@ -1,10 +1,9 @@
 author: Taylor J Hawkins
 logo: assets/img/band_logo.png
-#logo: https://avatars1.githubusercontent.com/u/2531760?v=3&s=400
 clickToEnlargeImages: True
 lang: en
 cookies:
-  enabled: False
+  enabled: True
   message: This site might be using cookies! Customize your message or disable cookies in metaData.yml!
   agreeButtonText: Yes, I agree
   disagreeButtonText: No, take me to settings
