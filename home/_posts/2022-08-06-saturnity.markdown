@@ -2,7 +2,6 @@
 layout: post
 image: assets/img/saturnity-ep.png
 category: home
-published: true
 title: 'Saturnity EP Release - August 10, 2022'
 ---
 ![Saturnity EP]({{taylorjhawkins.com}}/assets/img/saturnity-ep.png)

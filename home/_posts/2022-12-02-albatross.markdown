@@ -2,7 +2,6 @@
 layout: post
 image: assets/img/albatross-ep.png
 category: home
-published: true
 title: 'Albatross EP Release - December 21, 2022'
 ---
 ![Albatross EP]({{taylorjhawkins.com}}/assets/img/albatross-ep.png)

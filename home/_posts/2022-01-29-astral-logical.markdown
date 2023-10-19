@@ -2,7 +2,6 @@
 layout: post
 image: assets/img/astral-logical-album.png
 category: home
-published: true
 title: 'Astral Logical EP Release - February 24, 2022'
 ---
 ![Astral Logical EP]({{taylorjhawkins.com}}/assets/img/astral-logical-album.png)

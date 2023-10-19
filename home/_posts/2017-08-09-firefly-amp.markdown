@@ -1,6 +1,6 @@
 ---
 category: home
-published: true
+layout: post
 title: FireFly Tube Amplifier Part 1
 ---
 ## Building a FireFly Tube Amplifier

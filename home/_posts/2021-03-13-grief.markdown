@@ -2,7 +2,6 @@
 layout: post
 image: assets/img/grief-album.png
 category: home
-published: true
 title: 'Grief Album Release - April 10th, 2021'
 ---
 ![Grief Album]({{taylorjhawkins.com}}/assets/img/grief-album.png)

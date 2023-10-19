@@ -2,7 +2,6 @@
 layout: post
 image: assets/img/paintings-album.png
 category: home
-published: true
 title: 'Paintings Album Release - July 16, 2021'
 ---
 ![Paintings Album]({{taylorjhawkins.com}}/assets/img/paintings-album.png)
