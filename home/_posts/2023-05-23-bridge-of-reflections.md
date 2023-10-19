@@ -1,9 +1,9 @@
 ---
 layout: post
-image: /assets/img/bridge-of-reflections.png
-category: home
-published: true
 title: 'Bridge of Reflections - Suite for Two Pianos Release - June 1st, 2023'
+category: home
+image: /assets/img/bridge-of-reflections.png
+image_alt: Post image cover
 ---
 ![Bridge of Reflections]({{taylorjhawkins.com}}/assets/img/bridge-of-reflections.png)
 I'm releasing a piano suite, **Bridge of Reflections**, as **Taylor J Hawkins**, on **June 1st, 2023**. 

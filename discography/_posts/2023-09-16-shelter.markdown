@@ -10,7 +10,7 @@ image: assets/img/shelter.png
 #     size: 600
 #   - src: assets/img/z-is-for-zero.png
 #     size: 900
-type: single
+type: LP
 play:
     - name: YouTube
       url: https://www.youtube.com/watch?v=jIPn2cwTlvo
