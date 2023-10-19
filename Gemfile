@@ -4,7 +4,6 @@ source "https://rubygems.org"
 gemspec
 gem "kramdown-parser-gfm"
 gem "kramdown-syntax-coderay"
-gem "minimal-categorized"
 #seo
 gem "jekyll-seo-tag", github: "jekyll/jekyll-seo-tag"
 gem "jekyll-feed"
