@@ -2,6 +2,9 @@
 <html lang="{{ site.data.metaData.lang }}">
   <head>
     {% include common-head.html %}
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
   <body>
     {% include menu.html %}
