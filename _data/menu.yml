@@ -29,12 +29,12 @@ menu_pages:
   tooltip: This is about
 
 menu_contacts:
-# - faicon: fab fa-soundcloud
-#   url: 
-#   target: _blank
-# - faicon: fab fa-twitter
-#   url: 
-#   target: _blank
+- faicon: fab fa-soundcloud
+  url: 
+  target: _blank
+- faicon: fab fa-twitter
+  url: 
+  target: _blank
 - faicon: fas fa-envelope
   url:
   target: 
