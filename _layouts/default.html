@@ -3,8 +3,9 @@
   <head>
     {% include common-head.html %}
     {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
+      {% if userConsentedToAnalytics %} {# Check user consent status #}
+        {% include analytics.html %} {# Include Google Analytics if consented #}
+      {% endif %}
   </head>
   <body>
     {% include menu.html %}

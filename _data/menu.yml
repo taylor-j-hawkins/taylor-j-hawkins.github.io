@@ -29,15 +29,30 @@ menu_pages:
   tooltip: This is about
 
 menu_contacts:
-- faicon: fab fa-soundcloud
-  url: 
+- faicon: fab fa-instagram
+  url: https://www.instagram.com/thetaylorjhawkins/
   target: _blank
-- faicon: fab fa-twitter
-  url: 
+- faicon: fab fa-tiktok
+  url: https://www.tiktok.com/@taylorjhawkins
+  target: _blank
+- faicon: fab fa-facebook
+  url: https://www.facebook.com/thetaylorjhawkins
+  target: _blank
+- faicon: fab fa-youtube
+  url: https://www.youtube.com/@taylorjhawkins/featured
+  target: _blank
+- faicon: fab fa-spotify
+  url: https://open.spotify.com/artist/62evrwxHqQSN16y9hwSLfg?si=wDAos3mqRNO7_j7krVltKg
+  target: _blank
+- faicon: fab fa-apple
+  url: https://music.apple.com/us/artist/taylor-j-hawkins/1559465807
+  target: _blank
+- faicon: fab fa-bandcamp
+  url: https://taylorjhawkins.bandcamp.com/
   target: _blank
 - faicon: fas fa-envelope
-  url:
-  target: 
+  url: mailto:admin@taylorjhawkins.com
+  target: _blank
 - faicon: fas fa-rss
   url: /feed.xml
   target: _blank
