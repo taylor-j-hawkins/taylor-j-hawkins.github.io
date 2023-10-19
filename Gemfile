@@ -10,7 +10,7 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-paginate-v2"
 gem "webrick", "~> 1.7"
-gem "jekyll", "~> 4.2"
+gem "jekyll", "~> 3.9.3"
 
 group :jekyll_plugins do
     gem "jekyll-timeago", "~> 0.13.1"
