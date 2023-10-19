@@ -1,7 +1,7 @@
 .post {
     $root: &;
     font-size: 1.2em;
-    color: black;
+    color: $black;
     @include hyperlink-convention();
     @include mobile{
         font-size: 1em;
