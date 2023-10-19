@@ -1,319 +1,319 @@
----
----
+// ---
+// ---
 
-//
-// IMPORTS
-//
+// //
+// // IMPORTS
+// //
 
-@import "reset";
-@import "variables";
-// Syntax highlighting @import is at the bottom of this file
+// @import "reset";
+// @import "variables";
+// // Syntax highlighting @import is at the bottom of this file
 
-/**************/
-/* BASE RULES */
-/**************/
+// /**************/
+// /* BASE RULES */
+// /**************/
 
-html, html[data-theme="light"] {
-	--link-color: rgb(0, 112, 201);
-  --main-background-color: hsl(0, 0%, 90%);
-  --main-text-color: hsl(0, 0%, 20%);
-}
+// html, html[data-theme="light"] {
+// 	--link-color: rgb(0, 112, 201);
+//   --main-background-color: hsl(0, 0%, 90%);
+//   --main-text-color: hsl(0, 0%, 20%);
+// }
 
-html[data-theme="dark"] {
-  --link-color: rgb( 100, 210, 255);
-  --main-background-color: hsl(0, 0%, 20%);
-  --main-text-color: hsl(0, 0%, 85%); 
-}
-
-
-@media (prefers-color-scheme: dark) {
-    html, html[data-theme="dark"] {
-      --link-color: rgb( 100, 210, 255);
-    	--main-background-color: hsl(0, 0%, 20%);
-    	--main-text-color: hsl(0, 0%, 85%); 
-    }
-
-    html[data-theme="light"] {
-		  --link-color: rgb(0, 112, 201);
-    	--main-background-color: hsl(0, 0%, 90%);
-  	 --main-text-color: hsl(0, 0%, 20%);
-  } 
-}
+// html[data-theme="dark"] {
+//   --link-color: rgb( 100, 210, 255);
+//   --main-background-color: hsl(0, 0%, 20%);
+//   --main-text-color: hsl(0, 0%, 85%); 
+// }
 
 
-html {
-  font-size: 100%;
-}
+// @media (prefers-color-scheme: dark) {
+//     html, html[data-theme="dark"] {
+//       --link-color: rgb( 100, 210, 255);
+//     	--main-background-color: hsl(0, 0%, 20%);
+//     	--main-text-color: hsl(0, 0%, 85%); 
+//     }
 
-body {
-  background-color: var(--main-background-color);
-  font: 18px/1.4 "Computer Modern", Times, serif;
-  color: var(--main-text-color);
-}
+//     html[data-theme="light"] {
+// 		  --link-color: rgb(0, 112, 201);
+//     	--main-background-color: hsl(0, 0%, 90%);
+//   	 --main-text-color: hsl(0, 0%, 20%);
+//   } 
+// }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Computer Modern", Times, serif;
-  color: var(--main-text-color);
-  font-weight: bold;
+// html {
+//   font-size: 100%;
+// }
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
+// body {
+//   background-color: var(--main-background-color);
+//   font: 18px/1.4 "Computer Modern", Times, serif;
+//   color: var(--main-text-color);
+// }
 
-  @include mobile {
-    line-height: 1.4;
-  }
-}
+// .container {
+//   margin: 0 auto;
+//   max-width: 740px;
+//   padding: 0 10px;
+//   width: 100%;
+// }
 
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
+// h1, h2, h3, h4, h5, h6 {
+//   font-family: "Computer Modern", Times, serif;
+//   color: var(--main-text-color);
+//   font-weight: bold;
 
-h2 {
-  font-size: 24px;
-}
+//   line-height: 1.7;
+//   margin: 1em 0 15px;
+//   padding: 0;
 
-h3 {
-  font-size: 20px;
-}
+//   @include mobile {
+//     line-height: 1.4;
+//   }
+// }
 
-h4 {
-  font-size: 18px;
-  color: inherit;
-}
+// h1 {
+//   font-size: 30px;
+//   a {
+//     color: inherit;
+//   }
+// }
 
-p {
-  margin: 15px 0;
-}
+// h2 {
+//   font-size: 24px;
+// }
 
-a {
-  color: var(--link-color);
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: #d89216;
-  }
-}
+// h3 {
+//   font-size: 20px;
+// }
 
-ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
-}
+// h4 {
+//   font-size: 18px;
+//   color: inherit;
+// }
 
-ul {
-  list-style-type: disc;
-}
+// p {
+//   margin: 15px 0;
+// }
 
-ol {
-  list-style-type: decimal;
-}
+// a {
+//   color: var(--link-color);
+//   text-decoration: none;
+// 	cursor: pointer;
+//   &:hover, &:active {
+//     color: #d89216;
+//   }
+// }
 
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
+// ul, ol {
+//   margin: 15px 0;
+//   padding-left: 30px;
+// }
 
-ul ul, ol ul {
-  list-style-type: circle;
-}
+// ul {
+//   list-style-type: disc;
+// }
 
-em, i {
-  font-style: italic;
-}
+// ol {
+//   list-style-type: decimal;
+// }
 
-strong, b {
-  font-weight: bold;
-}
+// ol ul, ul ol, ul ul, ol ol {
+//   margin: 0;
+// }
 
-img {
-  max-width: 100%;
-}
+// ul ul, ol ul {
+//   list-style-type: circle;
+// }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
+// em, i {
+//   font-style: italic;
+// }
 
-.date {
-  font-style: italic;
-  color: var(--main-text-color);
-}
+// strong, b {
+//   font-weight: bold;
+// }
 
-// Specify the color of the selection
-::-moz-selection {
-  color: $black;
-  background: $lightGray;
-}
-::selection {
-  color: $black;
-  background: $lightGray;
-}
+// img {
+//   max-width: 100%;
+// }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
+// // Fixes images in popup boxes from Google Translate
+// .gmnoprint img {
+//   max-width: none;
+// }
 
-.clearfix:after {
-    clear: both;
-}
+// .date {
+//   font-style: italic;
+//   color: var(--main-text-color);
+// }
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
+// // Specify the color of the selection
+// ::-moz-selection {
+//   color: $black;
+//   background: $lightGray;
+// }
+// ::selection {
+//   color: $black;
+//   background: $lightGray;
+// }
 
-//
-// .masthead
-//
+// // Nicolas Gallagher's micro clearfix hack
+// // http://nicolasgallagher.com/micro-clearfix-hack/
+// .clearfix:before,
+// .clearfix:after {
+//     content: " ";
+//     display: table;
+// }
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-  background-color: var(--main-background-color);
-}
+// .clearfix:after {
+//     clear: both;
+// }
 
-.masthead {
+// /*********************/
+// /* LAYOUT / SECTIONS */
+// /*********************/
+
+// //
+// // .masthead
+// //
+
+// .wrapper-masthead {
+//   margin-bottom: 50px;
+//   background-color: var(--main-background-color);
+// }
+
+// .masthead {
  
-  padding: 20px 0;
-  border-bottom: 1px solid var(--main-text-color);
+//   padding: 20px 0;
+//   border-bottom: 1px solid var(--main-text-color);
 
-  @include mobile {
-    text-align: center;
-  }
-}
+//   @include mobile {
+//     text-align: center;
+//   }
+// }
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+// .site-avatar {
+//   float: left;
+//   width: 70px;
+//   height: 70px;
+//   margin-right: 15px;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+//   @include mobile {
+//     float: none;
+//     display: block;
+//     margin: 0 auto;
+//   }
 
-  img {
-    border-radius: 5px;
-  }
-}
+//   img {
+//     border-radius: 5px;
+//   }
+// }
 
-.site-info {
-  float: left;
+// .site-info {
+//   float: left;
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
+//   @include mobile {
+//     float: none;
+//     display: block;
+//     margin: 0 auto;
+//   }
+// }
 
-.site-name {
-  margin: 0;
-  color: var(--main-text-color);
-  cursor: pointer;
-  font-family: "Computer Modern", Times, serif;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-}
+// .site-name {
+//   margin: 0;
+//   color: var(--main-text-color);
+//   cursor: pointer;
+//   font-family: "Computer Modern", Times, serif;
+//   font-weight: 300;
+//   font-size: 28px;
+//   letter-spacing: 1px;
+// }
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: var(--main-text-color);
-  font-size: 16px;
+// .site-description {
+//   margin: -5px 0 0 0;
+//   color: var(--main-text-color);
+//   font-size: 16px;
 
-  @include mobile {
-    margin: 3px 0;
-  }
-}
+//   @include mobile {
+//     margin: 3px 0;
+//   }
+// }
 
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: "Computer Modern", Times, serif;
-  font-size: 18px;
+// nav {
+//   float: right;
+//   margin-top: 23px; // @TODO: Vertically middle align
+//   font-family: "Computer Modern", Times, serif;
+//   font-size: 18px;
   
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
+//   @include mobile {
+//     float: none;
+//     margin-top: 9px;
+//     display: block;
+//     font-size: 16px;
+//   }
 
-  a {
-    margin-left: 20px;
-    ccolor: var(--link-color);
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+//   a {
+//     margin-left: 20px;
+//     ccolor: var(--link-color);
+//     text-align: right;
+//     font-weight: 300;
+//     letter-spacing: 1px;
 
-    @include mobile {
-      margin: 0 10px;
-      color: var(--link-color);
-    }
-  }
-}
+//     @include mobile {
+//       margin: 0 10px;
+//       color: var(--link-color);
+//     }
+//   }
+// }
 
-//
-// .main
-//
+// //
+// // .main
+// //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid var(--main-text-color);
-}
+// .posts > .post {
+//   padding-bottom: 2em;
+//   border-bottom: 1px solid var(--main-text-color);
+// }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
+// .posts > .post:last-child {
+//   padding-bottom: 1em;
+//   border-bottom: none;
+// }
 
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid var(--main-text-color);
-    padding: 0.1em 1em;
-    color: var(--main-text-color);
-    font-size: 22px;
-    font-style: italic;
-  }
+// .post {
+//   blockquote {
+//     margin: 1.8em .8em;
+//     border-left: 2px solid var(--main-text-color);
+//     padding: 0.1em 1em;
+//     color: var(--main-text-color);
+//     font-size: 22px;
+//     font-style: italic;
+//   }
 
-  .comments {
-    margin-top: 10px;
-  }
+//   .comments {
+//     margin-top: 10px;
+//   }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
+//   .read-more {
+//     text-transform: uppercase;
+//     font-size: 15px;
+//   }
+// }
 
-#footer {
-  margin-top: 50px;
-  border-top: 1px solid var(--main-text-color);
-  background-color: var(--main-background-color);
-}
+// #footer {
+//   margin-top: 50px;
+//   border-top: 1px solid var(--main-text-color);
+//   background-color: var(--main-background-color);
+// }
 
-footer {
-  padding: 20px 0;
-  text-align: center;
+// footer {
+//   padding: 20px 0;
+//   text-align: center;
   
-}
+// }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+// // Settled on moving the import of syntax highlighting to the bottom of the CSS
+// // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+// @import "highlights";
+// @import "svg-icons";

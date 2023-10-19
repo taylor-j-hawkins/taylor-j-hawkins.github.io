@@ -1,0 +1,23 @@
+---
+layout: post
+title: Shelter
+description: This is a cover of the song 'Shelter' by Corrosion of Conformity. 
+image: assets/img/shelter.png
+# responsiveImage:
+#   - src: assets/img/300.png
+#     size: 300
+#   - src: assets/img/600.png
+#     size: 600
+#   - src: assets/img/z-is-for-zero.png
+#     size: 900
+type: single
+play:
+    - name: YouTube
+      url: https://www.youtube.com/watch?v=jIPn2cwTlvo
+    - name: Spotify
+      url: https://open.spotify.com/track/3NIm1sl72uF7Vo9J11yumz?si=715b384772b44145
+embed_player:
+  type: spotify
+  src: 3NIm1sl72uF7Vo9J11yumz
+---
+This song features a nylon string guitar and atmospheric synths accompanied by my vocals. 
