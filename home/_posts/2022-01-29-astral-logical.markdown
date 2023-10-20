@@ -5,7 +5,6 @@ image_alt: Post image cover
 category: home
 title: 'Astral Logical EP Release - February 24, 2022'
 ---
-![Astral Logical EP]({{taylorjhawkins.com}}/assets/img/astral-logical-album.png)
 I'm releasing my first EP, **Astral Logical**, as **Taylor J Hawkins**, in **February, 2022**. 
 It will be available on Spotify, ITunes, and other digital distribution platforms. 
 The material was recorded this past year (2021), with [Reaper](https://www.reaper.fm/), my current DAW, in my home studio.

@@ -5,8 +5,6 @@ image_alt: Post image cover
 category: home
 title: 'Paintings Album Release - July 16, 2021'
 ---
-![Paintings Album]({{taylorjhawkins.com}}/assets/img/paintings-album.png)
-
 I'm releasing my second (but debut vocal) album, **Paintings**, as **Taylor J Hawkins**, in **August, 2021**. 
 It will be available on Spotify, ITunes, and other digital distribution platforms. 
 

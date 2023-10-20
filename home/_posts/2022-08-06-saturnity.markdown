@@ -5,7 +5,6 @@ image_alt: Post image cover
 category: home
 title: 'Saturnity EP Release - August 10, 2022'
 ---
-![Saturnity EP]({{taylorjhawkins.com}}/assets/img/saturnity-ep.png)
 I'm releasing my second EP, **Saturnity**, as **Taylor J Hawkins**, on **August 10th, 2022**. 
 It will be available on Spotify, ITunes, and other digital distribution platforms. 
 The material was recorded this year (2022), with [Reaper](https://www.reaper.fm/), my current DAW, in my home studio.

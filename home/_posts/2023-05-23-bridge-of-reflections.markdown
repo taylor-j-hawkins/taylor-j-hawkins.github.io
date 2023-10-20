@@ -5,7 +5,6 @@ category: home
 image: /assets/img/bridge-of-reflections.png
 image_alt: Post image cover
 ---
-![Bridge of Reflections]({{ site.url }}/assets/img/bridge-of-reflections.png)
 I'm releasing a piano suite, **Bridge of Reflections**, as **Taylor J Hawkins**, on **June 1st, 2023**. 
 It will be available on Spotify, ITunes, and other digital distribution platforms. 
 The material was composed this year (2023), with [Musescore](https://musescore.org/) and [Reaper](https://www.reaper.fm/), my current DAW, in my home studio.

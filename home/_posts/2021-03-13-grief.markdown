@@ -5,8 +5,6 @@ image_alt: Post image cover
 category: home
 title: 'Grief Album Release - April 10th, 2021'
 ---
-![Grief Album]({{taylorjhawkins.com}}/assets/img/grief-album.png)
-
 I'm releasing my debut album, **Grief**, as **Taylor J Hawkins**, on **April 10th, 2021**. 
 It will be available on Spotify, ITunes, and other digital distribution platforms. 
 
