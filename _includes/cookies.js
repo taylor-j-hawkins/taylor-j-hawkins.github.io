@@ -28,7 +28,7 @@
         cookieContainer.classList.add("hidden");
         window.setTimeout(cookieContainer.remove.bind(cookieContainer), 1000);
         storageType.setItem(interactedWithCookiesBanner, true);
-        window.location = "{{ "/cookies" | absolute_url }}";
+        window.location = "{{ "/cookies" | relative_url }}";
     }
 
     window.addEventListener("load", () => {

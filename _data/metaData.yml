@@ -12,7 +12,7 @@ cookies:
   header: Cookie settings
   consent:
     - name: Google Analytics
-      description: some description describing the purpose of this consent as well as what it will collect and where send
+      description: This is used to track statistical website visit data.
       cookieName: GA
 #    - name: Some other cookie that is always true
 #      description: some description describing the purpose of this consent as well as what it will collect and where send
