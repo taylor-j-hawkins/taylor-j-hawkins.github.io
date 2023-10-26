@@ -1,12 +1,20 @@
 ---
 layout: post
+title: Grief
+description: I'm releasing my debut album, 'Grief', as Taylor J Hawkins, on April 10th, 2021. 
 image: assets/img/grief-album.png
 image_alt: Post image cover
-category: home
-title: 'Grief Album Release - April 10th, 2021'
+type: Album
+play:
+    - name: YouTube
+      url: https://www.youtube.com/playlist?list=OLAK5uy_nEWCI2kNOkScuFrfLxJhj18IPuCwe6dlo
+    - name: Spotify
+      url: https://open.spotify.com/album/0Ck9CicDRxPWiMZ5HLg1wA?si=6755Pf6oRamJBq2RCfIpQg
+embed_player:
+  type: spotify
+  src: 50a84jWiyXWpUUnjuwxrZy
 ---
 I'm releasing my debut album, **Grief**, as **Taylor J Hawkins**, on **April 10th, 2021**. 
-It will be available on Spotify, ITunes, and other digital distribution platforms. 
 
 The material was mostly recorded between 2011-2013, and I've recently used it for learning a new mastering workflow with [Reaper](https://www.reaper.fm/), my current DAW, in my new home studio.
 

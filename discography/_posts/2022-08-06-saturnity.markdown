@@ -1,12 +1,21 @@
 ---
 layout: post
+title: 'Saturnity EP Release - August 10, 2022'
+description: I'm releasing my second EP, Saturnity, as Taylor J Hawkins, on August 10th, 2022. 
 image: assets/img/saturnity-ep.png
 image_alt: Post image cover
-category: home
-title: 'Saturnity EP Release - August 10, 2022'
+type: LP
+play:
+    - name: YouTube
+      url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZBLiNv71HqT4BqOFIAiWK2
+    - name: Spotify
+      url: https://open.spotify.com/album/0H3GdhkriEdy8zN8HUMYQh?si=GKowkk7sSH2HbphETPVNjA
+embed_player:
+  type: spotify
+  src: 32wDwrjOcuDEsAzsipzoF4
 ---
 I'm releasing my second EP, **Saturnity**, as **Taylor J Hawkins**, on **August 10th, 2022**. 
-It will be available on Spotify, ITunes, and other digital distribution platforms. 
+
 The material was recorded this year (2022), with [Reaper](https://www.reaper.fm/), my current DAW, in my home studio.
 
 The intention of this EP was to take a further step towards a metal sound with the nylon guitar, more so than with Astral Logical. It was also an exercise in taking a more thoughtful approach compositionally, where I spent more time composing and arranging in [MuseScore](https://musescore.org/en), before moving to the DAW.

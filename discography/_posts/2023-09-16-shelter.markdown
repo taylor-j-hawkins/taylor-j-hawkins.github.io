@@ -3,13 +3,7 @@ layout: post
 title: Shelter
 description: This is a cover of the song 'Shelter' by Corrosion of Conformity. 
 image: assets/img/shelter.png
-# responsiveImage:
-#   - src: assets/img/300.png
-#     size: 300
-#   - src: assets/img/600.png
-#     size: 600
-#   - src: assets/img/z-is-for-zero.png
-#     size: 900
+image_alt: Post image cover
 type: LP
 play:
     - name: YouTube
