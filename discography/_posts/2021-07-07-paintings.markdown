@@ -11,7 +11,7 @@ play:
       url: https://open.spotify.com/album/1jd8CpImZJycu8hH05cdcY?si=FH9F740pR2Sedy6dX-uPZA
 embed_player:
   type: spotify
-  src: 1jd8CpImZJycu8hH05cdcY
+  src: 4nRBNV9LSgP8CnqTYG37Kd
 
 ---
 I'm releasing my second (but debut vocal) album, **Paintings**, as **Taylor J Hawkins**, in **August, 2021**. 
