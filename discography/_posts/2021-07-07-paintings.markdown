@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paintings
+description: I'm releasing my second (but debut vocal) album, **Paintings**, as **Taylor J Hawkins**, in **August, 2021**. 
 image: assets/img/paintings-album.png
 image_alt: Post image cover
 type: Album
@@ -14,9 +15,6 @@ embed_player:
   src: 4nRBNV9LSgP8CnqTYG37Kd
 
 ---
-I'm releasing my second (but debut vocal) album, **Paintings**, as **Taylor J Hawkins**, in **August, 2021**. 
-It will be available on Spotify, ITunes, and other digital distribution platforms. 
-
 The material was mostly recorded this past year (2020-2021), with [Reaper](https://www.reaper.fm/), my current DAW, in my home studio.
 
 The focus of this album was to predominantly feature nylon (classical/jazz) guitar work, as well as my voice. 
