@@ -4,7 +4,7 @@ title: Astral Logical
 description: I'm releasing my first EP, Astral Logical, as Taylor J Hawkins, in February, 2022. 
 image: assets/img/astral-logical-album.png
 image_alt: Post image cover
-type: LP
+type: EP
 play:
     - name: YouTube
       url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvb57eOh1NOj_3RJPtdOmRVM

@@ -4,7 +4,7 @@ title: 'Saturnity EP Release - August 10, 2022'
 description: I'm releasing my second EP, Saturnity, as Taylor J Hawkins, on August 10th, 2022. 
 image: assets/img/saturnity-ep.png
 image_alt: Post image cover
-type: LP
+type: EP
 play:
     - name: YouTube
       url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZBLiNv71HqT4BqOFIAiWK2

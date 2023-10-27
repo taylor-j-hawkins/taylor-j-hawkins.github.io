@@ -4,7 +4,7 @@ title: Bridge of Reflections
 description: I'm releasing a piano suite, Bridge of Reflections, as Taylor J Hawkins, on June 1st, 2023. 
 image: assets/img/bridge-of-reflections.png
 image_alt: Post image cover
-type: LP
+type: EP
 play:
     - name: YouTube
       url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvaBTR-hk5dZL3U2GrpWpIjq

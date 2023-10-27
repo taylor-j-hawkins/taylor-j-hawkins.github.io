@@ -4,7 +4,7 @@ title: Albatross
 description: I'm releasing my third EP, **Albatross**, as **Taylor J Hawkins**, on **December 21, 2022**. 
 image: assets/img/albatross-ep.png
 image_alt: Post image cover
-type: LP
+type: EP
 play:
     - name: YouTube
       url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvYAhkwfs4S6dlG3iUyYKlCN
