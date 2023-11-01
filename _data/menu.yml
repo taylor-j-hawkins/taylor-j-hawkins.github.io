@@ -50,7 +50,7 @@ menu_contacts:
 - faicon: fab fa-bandcamp
   url: https://taylorjhawkins.bandcamp.com/
   target: _blank
-- faicon: fa-brands fa-patreon
+- faicon: fab fa-patreon
   url: https://www.patreon.com/taylorjhawkins
   target: _blank
 # - faicon: fas fa-envelope
