@@ -13,6 +13,11 @@ menu_pages:
 #   category: collaborations
 #   tooltip: Collaborations tooltip
 
+# - title: Patreon
+#   url: https://www.patreon.com/taylorjhawkins
+#   category: subscription
+#   tooltip: Patreon tooltip
+
 - title: Merch
   url: https://shop.taylorjhawkins.com
   category: merchandise
@@ -32,9 +37,12 @@ menu_contacts:
 - faicon: fab fa-instagram
   url: https://www.instagram.com/thetaylorjhawkins/
   target: _blank
-- faicon: fab fa-tiktok
-  url: https://www.tiktok.com/@taylorjhawkins
+- faicon: fab fa-patreon
+  url: https://www.patreon.com/taylorjhawkins
   target: _blank
+# - faicon: fab fa-tiktok
+#   url: https://www.tiktok.com/@taylorjhawkins
+#   target: _blank
 - faicon: fab fa-facebook
   url: https://www.facebook.com/thetaylorjhawkins
   target: _blank
@@ -50,9 +58,7 @@ menu_contacts:
 - faicon: fab fa-bandcamp
   url: https://taylorjhawkins.bandcamp.com/
   target: _blank
-- faicon: fab fa-patreon
-  url: https://www.patreon.com/taylorjhawkins
-  target: _blank
+
 # - faicon: fas fa-envelope
 #   url: mailto:admin@taylorjhawkins.com
 #   target: _blank
