@@ -9,8 +9,8 @@ play:
     - name: YouTube
       url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZTDCDG3lkrVQwj1eH11TZ4
     - name: Spotify
-      url: 
-embed_player:https://open.spotify.com/track/1UODwbkuKquPkpiIzDhgPg?si=Mra8VGuqT12vCq57gldzYA
+      url: https://open.spotify.com/track/1UODwbkuKquPkpiIzDhgPg?si=Mra8VGuqT12vCq57gldzYA
+embed_player: 
   type: spotify
   src: 1UODwbkuKquPkpiIzDhgPg
 ---
