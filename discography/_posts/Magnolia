@@ -1,0 +1,20 @@
+---
+layout: post
+title: Magnolia
+description: This is the second single for my upcoming LP, 'Anathema'. 
+image: assets/img/magnolia.png
+image_alt: Post image cover
+type: Single
+play:
+    - name: YouTube
+      url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZTDCDG3lkrVQwj1eH11TZ4
+    - name: Spotify
+      url: 
+embed_player:https://open.spotify.com/track/1UODwbkuKquPkpiIzDhgPg?si=Mra8VGuqT12vCq57gldzYA
+  type: spotify
+  src: 1UODwbkuKquPkpiIzDhgPg
+---
+This is the second single for my upcoming LP, 'Anathema'. 
+This LP explores more extreme musical territory with Doom and Death Metal influences.
+
+This song (like most songs on this upcoming LP) continues to feature a nylon string guitar at its core. 
