@@ -1,0 +1,18 @@
+---
+layout: post
+title: Fortress
+description: This is my second solo guitar piece for nylon guitar! 
+image: assets/img/fortress.png
+image_alt: Post image cover
+type: Single
+play:
+    - name: YouTube
+      url: https://youtube.com/playlist?list=PL-EFVfbjWLvaBTR-hk5dZL3U2GrpWpIjq&si=r509_jKbRMRBreGr
+    - name: Spotify
+      url: https://open.spotify.com/track/1hjR8TjneaQhUgn86Axx3r?si=N4o1uN78THecCTIaXv7_VQ
+embed_player: 
+  type: spotify
+  src: 1hjR8TjneaQhUgn86Axx3r
+---
+This is my second solo guitar piece for nylon guitar!
+There will be a total of three works for this collection.
