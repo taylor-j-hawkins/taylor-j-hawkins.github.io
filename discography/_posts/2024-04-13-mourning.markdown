@@ -9,10 +9,10 @@ play:
     - name: YouTube
       url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZTDCDG3lkrVQwj1eH11TZ4
     - name: Spotify
-      url: https://open.spotify.com/album/2gTWAJl2NFbhpcMgwzJGfy?si=DXjtk1ljTJKkLWnMkvdvVA
+      url: https://open.spotify.com/track/0OIEF2TcEhne5cxP26yBJE?si=gZtV-25XTnGIQkbHMPaCmA
 embed_player: 
   type: spotify
-  src: 2gTWAJl2NFbhpcMgwzJGfy
+  src: 0OIEF2TcEhne5cxP26yBJE
 ---
 This is the third single for my upcoming LP, 'Anathema'. 
 This LP explores more extreme musical territory with Doom and Death Metal influences.
