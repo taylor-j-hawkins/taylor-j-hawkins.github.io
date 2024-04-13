@@ -1,0 +1,20 @@
+---
+layout: post
+title: Mourning After You
+description: This is the third single for my upcoming LP, 'Anathema'. 
+image: assets/img/mourning.png
+image_alt: Post image cover
+type: Single
+play:
+    - name: YouTube
+      url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZTDCDG3lkrVQwj1eH11TZ4
+    - name: Spotify
+      url: https://open.spotify.com/album/2gTWAJl2NFbhpcMgwzJGfy?si=DXjtk1ljTJKkLWnMkvdvVA
+embed_player: 
+  type: spotify
+  src: 2gTWAJl2NFbhpcMgwzJGfy
+---
+This is the third single for my upcoming LP, 'Anathema'. 
+This LP explores more extreme musical territory with Doom and Death Metal influences.
+
+This song (like most songs on this upcoming LP) continues to feature a nylon string guitar at its core. 
