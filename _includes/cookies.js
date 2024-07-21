@@ -3,25 +3,13 @@
     const storageType = localStorage;
     const cookieContainerId = "cookieContainer";
     
-    // Check if the user has previously interacted with the banner and consented
-    const userConsentedToAnalytics = storageType.getItem("GA") === "true"; // Set the user consent status
-
-    acceptAllCookieConsent = () => {
-        eval("storageType.setItem('GA', true);");
-        userConsentedToAnalytics = true; // Set user consent status
-    }
-
     window.cookiesAcceptDefaultFn = () => {
         const cookieContainer = document.getElementById(cookieContainerId);
         cookieContainer.classList.add("hidden");
         window.setTimeout(cookieContainer.remove.bind(cookieContainer), 1000);
         storageType.setItem(interactedWithCookiesBanner, true);
-        
-        // Check if user consented to Google Analytics and load it if consented
-        if (userConsentedToAnalytics) {
-            loadGoogleAnalytics(); // Function to load Google Analytics
-        }
-    }
+        storageType.setItem("GA", true);
+    };
 
     window.cookiesDisagreeDefaultFn = () => {
         const cookieContainer = document.getElementById(cookieContainerId);
@@ -29,7 +17,7 @@
         window.setTimeout(cookieContainer.remove.bind(cookieContainer), 1000);
         storageType.setItem(interactedWithCookiesBanner, true);
         window.location = "{{ "/cookies" | relative_url }}";
-    }
+    };
 
     window.addEventListener("load", () => {
         if(storageType.getItem(interactedWithCookiesBanner) === "true" || window.location.href.indexOf("cookies") !== -1) {
