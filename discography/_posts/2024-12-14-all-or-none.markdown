@@ -7,12 +7,12 @@ image_alt: Post image cover
 type: Single
 play:
     - name: YouTube
-      url: https://www.youtube.com/playlist?list=PL-EFVfbjWLvZTDCDG3lkrVQwj1eH11TZ4
+      url: https://youtube.com/playlist?list=PL-EFVfbjWLvYTFwaI1oFVZ97nwwioZXDc&si=5JFgbnZonw3X-LtQ
     - name: Spotify
-      url: https://open.spotify.com/album/7aePEWD5UkwAuaoFT53zNd?si=j5tYxYyMQLWhT5bxfs5tbA
+      url: https://open.spotify.com/track/6kD0Lo4diaFgdFGIofhxvd?si=XqOSReg_R1S50iUg7u3vTA
 embed_player: 
   type: spotify
-  src: 7aePEWD5UkwAuaoFT53zNd
+  src: 6kD0Lo4diaFgdFGIofhxvd
 ---
 This is the single, 'All or None'. 
 This is a nylon guitar cover of All or None by Pearl Jam. 
