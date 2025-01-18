@@ -1,0 +1,18 @@
+---
+layout: post
+title: Mother
+description: This is the single, 'Mother'. 
+image: assets/img/mother.png
+image_alt: Post image cover
+type: Single
+play:
+    - name: YouTube
+      url: https://youtube.com/playlist?list=PL-EFVfbjWLvYTFwaI1oFVZ97nwwioZXDc&si=5JFgbnZonw3X-LtQ
+    - name: Spotify
+      url: https://open.spotify.com/track/6kD0Lo4diaFgdFGIofhxvd?si=XqOSReg_R1S50iUg7u3vTA
+embed_player: 
+  type: spotify
+  src: 6kD0Lo4diaFgdFGIofhxvd
+---
+This is the single, 'Mother'. 
+This is a nylon guitar cover of Mother by Danzig. 
