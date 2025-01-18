@@ -9,10 +9,10 @@ play:
     - name: YouTube
       url: https://youtube.com/playlist?list=PL-EFVfbjWLvYTFwaI1oFVZ97nwwioZXDc&si=5JFgbnZonw3X-LtQ
     - name: Spotify
-      url: https://open.spotify.com/track/6kD0Lo4diaFgdFGIofhxvd?si=XqOSReg_R1S50iUg7u3vTA
+      url: https://open.spotify.com/track/0aUIyRXSmjRIo9OvbMbWCE?si=kX6FMqO9R4OLuqcePZ4eKg
 embed_player: 
   type: spotify
-  src: 6kD0Lo4diaFgdFGIofhxvd
+  src: 0aUIyRXSmjRIo9OvbMbWCE
 ---
 This is the single, 'Mother'. 
 This is a nylon guitar cover of Mother by Danzig. 
