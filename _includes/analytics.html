@@ -14,7 +14,9 @@
     gtag('config', 'G-P1F4L0XWG5');
   };
 
-  if (localStorage.getItem('GA') === 'true') {
-    window.loadGoogleAnalytics();
-  }
+  try {
+    if (localStorage.getItem('GA') === 'true') {
+      window.loadGoogleAnalytics();
+    }
+  } catch (e) {}
 </script>
