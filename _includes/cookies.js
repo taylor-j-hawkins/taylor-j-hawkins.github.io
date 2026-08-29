@@ -9,6 +9,9 @@
         window.setTimeout(cookieContainer.remove.bind(cookieContainer), 1000);
         storageType.setItem(interactedWithCookiesBanner, true);
         storageType.setItem("GA", true);
+        if (window.loadGoogleAnalytics) {
+            window.loadGoogleAnalytics();
+        }
     };
 
     window.cookiesDisagreeDefaultFn = () => {
