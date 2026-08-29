@@ -1,0 +1,17 @@
+---
+layout: post
+title: Notice
+description: This is the single, 'Notice'.
+image: assets/img/notice.png
+image_alt: Post image cover
+type: Single
+play:
+    - name: YouTube
+      url: https://youtube.com/playlist?list=PL-EFVfbjWLvYTFwaI1oFVZ97nwwioZXDc&si=5JFgbnZonw3X-LtQ
+    - name: Spotify
+      url: https://open.spotify.com/track/1FfCjjOMi7ZNK1QYFVpYCs
+embed_player:
+  type: spotify
+  src: 1FfCjjOMi7ZNK1QYFVpYCs
+---
+This is the single, 'Notice'.

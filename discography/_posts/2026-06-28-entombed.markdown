@@ -1,0 +1,17 @@
+---
+layout: post
+title: Entombed
+description: This is the single, 'Entombed'.
+image: assets/img/entombed.png
+image_alt: Post image cover
+type: Single
+play:
+    - name: YouTube
+      url: https://youtube.com/playlist?list=PL-EFVfbjWLvYTFwaI1oFVZ97nwwioZXDc&si=5JFgbnZonw3X-LtQ
+    - name: Spotify
+      url: https://open.spotify.com/track/4Ojj2eGcPs8yw0TlUgNXiR
+embed_player:
+  type: spotify
+  src: 4Ojj2eGcPs8yw0TlUgNXiR
+---
+This is the single, 'Entombed'.
